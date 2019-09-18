@@ -7,9 +7,17 @@ body{
     width: 10px;
     height: 10px;
     border-radius: 100%;
-    
   }
 
+.c-azul li {
+    border: 1px solid #3B53FF;
+  }
+
+  .carousel-indicators .active {
+    width: 10px;
+    height: 10px;
+    background-color: #3B53FF;
+}
 
 .tSejaBemVindo{
 
@@ -60,6 +68,9 @@ body{
         margin-top: 150px;
     }
 
+    .espaco{
+        height: 90px;
+    }
     .mt-80{
         margin-top: 80px;
     }

@@ -70,37 +70,34 @@ body{
 
     .blocoInscreva{
   
-        width: 430px;
+        width: 435px;
         height: 367px;
-
         background: #FAFAFA;
-        border-radius: 10px;
+        
     }
-    
     
     .blocoInscreva2{
-    
-      /* Rectangle 2.15 */
-      width: 430px;
-      height: 367px;
-    
-    
-      border: 2px solid #3B53FF;
-      box-sizing: border-box;
-      border-radius: 10px;
-    }
-
-    .blocoInscreva3{
     
         /* Rectangle 2.15 */
         width: 430px;
         height: 367px;
-      
-      
-        border: 2px solid #00DEDE;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 61px;
+        letter-spacing: 0.03em;
+        text-transform: lowercase;
+    
+        color: #3B53FF;
+        border: 2px solid #3B53FF;
         box-sizing: border-box;
         border-radius: 10px;
       }
-
+    
+    .blocoInscreva3  {
+        color: #00DEDE;
+        border: 2px solid #00DEDE;
+        border-radius: 10px;
+    }
 
 }

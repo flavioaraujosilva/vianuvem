@@ -19,23 +19,8 @@ body{
     background-color: #3B53FF;
 }
 
-.tSejaBemVindo{
 
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 34.5px;
-    line-height: 42px;
-    text-align: center;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    
-    color: #3B53FF;
-}
 
-.tSejaBemVindoBold{
-    font-style: normal;
-}
 
 .inscreva{
     background-image: url(/img/lin.svg);
@@ -76,8 +61,8 @@ body{
     
     }
 
-    .mt-150{
-        margin-top: 150px;
+    .mt-130{
+        margin-top: 130px;
     }
 
     .espaco{
@@ -166,5 +151,42 @@ body{
         right: 0;
     
     }
+
+
+.tSejaBemVindo{
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34.5px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    
+    color: #3B53FF;
+}
+
+.data {
+    font-weight: bold;
+font-size: 80px;
+line-height: 98px;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+}
+
+.parteencontro{
+    font-weight: 500;
+font-size: 18.5px;
+line-height: 23px;
+text-align: justify;
+letter-spacing: 0.05em;
+height: 24px;
+
+color: #626262;
+
+}
+    
 
 }
